@@ -11,7 +11,7 @@ assignees: ''
 **I need** [function]
 **So that** [benefit]
 
-### Detaisl and Assumptions
+### Details and Assumptions
 * [document what you know]
 
 ### Acceptance Criteria
@@ -20,4 +20,4 @@ assignees: ''
 Given [some context]
 When [certain action is taken]
 Then [the outcome if action is observed]
-ˋˋˋ
+```
